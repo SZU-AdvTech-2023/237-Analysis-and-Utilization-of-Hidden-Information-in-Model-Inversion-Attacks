@@ -1,0 +1,9 @@
+@article{REPO237,
+    author = "Zhang, Zeping and Wang, Xiaowen and Huang, Jie and Zhang, Shuaishuai",
+    journal = "IEEE Transactions on Information Forensics and Security",
+    number = "",
+    pages = "4449-4462",
+    title = "{Analysis and Utilization of Hidden Information in Model Inversion Attacks}",
+    volume = "18",
+    year = "2023"
+}
